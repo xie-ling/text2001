@@ -93,6 +93,7 @@ public class Counter2 extends JFrame implements ActionListener {
 		btnpane2.add(b30);
 		
 		b23.addActionListener(this);
+		b24.addActionListener(this);
 		setSize(350, 350);
 		setVisible(true);
 		
